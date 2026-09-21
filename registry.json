@@ -1128,8 +1128,7 @@
     {
         "id": "apikey-quota",
         "name": "API Key Quota",
-        "description": "Meters client API key usage and enforces per-key token, request and cost quotas with a built-in price table, model deny rules, pause and resume, and a
-  bilingual management dashboard.",
+        "description": "Meters client API key usage and enforces per-key token, request and cost quotas with a built-in price table, model deny rules, pause and resume, and a bilingual management dashboard.",
         "author": "minifun",
         "version": "0.1.0",
         "repository": "https://github.com/minifun/cliproxy-apikey-quota",
